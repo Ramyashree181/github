@@ -1,0 +1,3 @@
+BCS358C
+
+Project management with git
